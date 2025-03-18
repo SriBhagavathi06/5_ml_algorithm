@@ -1,0 +1,11 @@
+Course,Interest_Level,Past_Performance,Completion_Probability,Course_Recommendation
+"Machine Learning",9,85,0.95,"Advanced Machine Learning"
+"Python Programming",8,70,0.88,"Intermediate Python"
+"Web Development",7,65,0.82,"Full-Stack Web Development"
+"Cybersecurity Basics",6,60,0.75,"Cybersecurity Advanced"
+"Data Science",9,90,0.98,"Data Science Masterclass"
+"Digital Marketing",5,55,0.70,"Marketing Analytics"
+"AI for Beginners",7,60,0.80,"AI Essentials"
+"Cloud Computing",6,65,0.78,"AWS and Azure Basics"
+"DevOps Fundamentals",7,75,0.85,"DevOps Advanced"
+"Blockchain Technology",8,80,0.92,"Blockchain Expert"
